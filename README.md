@@ -1,2 +1,2 @@
 # Kidney-Stone-Prediction
-Prepared a model using VGG16 pretrained model and achieve the accuracy of around 97%.
+Used VGG16 pretrained model and achieve the accuracy of around 97%, It predicts whether a person having stone or not.
